@@ -27,3 +27,4 @@
 # Start resolving! Good luck!
 def trim(phrase, size):
     raise NotImplementedError("TODO: trim")
+    barabarabarabereberebere
